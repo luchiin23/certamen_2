@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Certamen2</string>
+    <string name="Ac1Hint">Usuario Git</string>
+    <string name="resultado">resultado</string>
+    <string name="res">:B</string>
+    <string name="nadie">Usuario no encontrado</string>
+    <string name="error">Esto salio mal</string>
+</resources>
